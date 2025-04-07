@@ -1,8 +1,47 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+Hi! I’m **Yu-Hsuan (Emilie) Cheng**, a dedicated public health researcher and current Master’s student in Epidemiology at Johns Hopkins Bloomberg School of Public Health.
+
+### 🎓 Education
+- **Johns Hopkins University**, Master of Health Science in Epidemiology (Aug 2024 – Present)  
+  - Certificate in Pharmacoepidemiology and Drug Safety
+  - Research track: Clinical Trials and Evidence Synthesis
+  - Relevant coursework: Statistical Methods, Epidemiologic Methods
+- **National Taiwan University**, Doctor of Veterinary Medicine (Sep 2017 – Jun 2022)  
+  - GPA: 3.84/4.0
+  - Relevant coursework: Veterinary Epidemiology, Immunology, Molecular Cell Biology
+
+### 🧪 Research Interests
+- Oncology supportive care and patient-centered interventions
+- Healthcare-associated infections
+- Digital health tools for improving health access
+- Viral pathogenesis in animals and humans
+
+### 💼 Experience Highlights
+- **Taiwan CDC**, Contract Technician  
+  Managed research projects on healthcare-associated infections and co-edited the Infection Control Journal.
+- **Johns Hopkins Student Disability Services**, Exam Proctor  
+  Facilitated academic accommodations for students.
+- **Veterinary Research**, National Taiwan University & Academia Sinica  
+  Researched viral interactions and immune responses in animal models and cancer cells.
+
+### 💻 Skills
+- R, GraphPad Prism, Microsoft Office, Canva
+- Languages: Mandarin, English, Taiwanese
+
+### 🎹 Outside of Work
+Beyond research, I enjoy playing the piano and organizing musical events! I previously served as Educational Officer of the National Taiwan University Piano Club, organizing recitals and connecting students with instructors.
+
+---
+
+📫 **Get in Touch**  
+Email: ychen750[at]jh.edu  
+Phone: 
+
 
 ```{r}
 1 + 1
