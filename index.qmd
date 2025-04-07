@@ -1,10 +1,18 @@
 ---
-title: "emilie.github.io"
+title: "Yu-Hsuan (Emilie) Cheng"
 ---
 
-This is a Quarto website.
+# Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I’m **Yu-Hsuan (Emilie) Cheng**, a Master’s student in Epidemiology at the Johns Hopkins Bloomberg School of Public Health.  
+I am passionate about clinical trials, evidence synthesis, and advancing healthcare through rigorous research.  
+With a background in veterinary medicine and public health, I bring a unique interdisciplinary perspective to my work in pharmacoepidemiology and infectious disease research.
+
+Currently, I am also part of the Certificate Program in Pharmacoepidemiology and Drug Safety, and my research focuses include oncology, healthcare-associated infections, and digital health interventions to improve patient care.
+
+Feel free to explore my site to learn more about my experiences, research, and interests!
+
+[Learn more about me →](about.html)
 
 ```{r}
 1 + 1
