@@ -1,5 +1,6 @@
 ---
 title: "Yu-Hsuan (Emilie) Cheng"
+format: html
 ---
 
 # Welcome!
@@ -13,6 +14,11 @@ Currently, I am also part of the Certificate Program in Pharmacoepidemiology and
 Feel free to explore my site to learn more about my experiences, research, and interests!
 
 [Learn more about me →](about.html)
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1

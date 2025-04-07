@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+format: html
 ---
 
 # About Me
@@ -40,8 +41,10 @@ Beyond research, I enjoy playing the piano and organizing musical events! I prev
 
 📫 **Get in Touch**  
 Email: ychen750[at]jh.edu  
-Phone: 
+Phone: 667-335-0665
+---
 
+About this site
 
 ```{r}
 1 + 1
